@@ -4,6 +4,9 @@ Name: Karen Poon
 
 This is a replay of https://github.com/mjhea0/flaskr-tdd.
 
+## Test Cases to My Project
+https://github.com/ECE444-2021Fall/project1-education-pathways-group-14-commuters/blob/2e8806e5eca1c1284a7c4a519bc07e0fd9b7b430/database/courses_test.py#L6-L235
+
 ## What are the pros and cons of TDD?
 
 Pros: 
